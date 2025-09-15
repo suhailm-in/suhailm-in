@@ -58,6 +58,3 @@
 <a href="https://dev.to/suhailm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhailm" height="30" width="40" /></a>
 <a href="https://medium.com/@suhail-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suhail-m" height="30" width="40" /></a>
 </p>
-
-<hr />
-<hr />
