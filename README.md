@@ -54,8 +54,8 @@
 <!-- Connect details -->
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suhailm-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhailm-in/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/suhailm-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suhailm-in/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suhailm-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhailm-in/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/suhailm-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suhailm-in/" height="30" width="40" /></a>
 <a href="https://dev.to/suhailm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suhailm" height="30" width="40" /></a>
 <a href="https://medium.com/@suhail-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suhail-m" height="30" width="40" /></a>
 </p>
