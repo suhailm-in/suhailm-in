@@ -47,15 +47,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
+<hr>
 <br />
 <br />
 
-
-![](https://quotes-github-readme.vercel.app/api?quote=Code%20with%20purpose%2C%20design%20with%20empathy%2C%20and%20secure%20with%20intelligence.&author=suhail%20m&type=vertical&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Code%20with%20purpose%2C%20design%20with%20empathy%2C%20and%20secure%20with%20intelligence.&author=suhail%20m&type=horizontal&theme=tokyonight" alt="quote">
+</p>
 
 <!-- Connect details -->
-<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/suhailm-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhailm-in/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/suhailm-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suhailm-in/" height="30" width="40" /></a>
