@@ -50,7 +50,7 @@
 ### Certifications
 [![EC-Council Trained](https://img.shields.io/badge/EC--Council-Trained-blue?style=for-the-badge)](https://www.eccouncil.org/)
 [![CEH Certified](https://img.shields.io/badge/CEH-Certified-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-[![Certified Penetration Tester](https://img.shields.io/badge/Penetration%20Tester-Certified-blue?style=for-the-badge&logo=kalilinux&logoColor=white)](https://example.com)
+[![Certified Penetration Tester](https://img.shields.io/badge/Penetration%20Tester-Certified-blue?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/)
 
 <hr>
 <br />
