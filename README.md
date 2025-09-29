@@ -53,14 +53,14 @@
 [![Certified Penetration Tester](https://img.shields.io/badge/Penetration%20Tester-Certified-blue?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/)
 
 <!-- Using Official Badge Images -->
-<a href="https://www.eccouncil.org/" target="_blank">
+<!-- <a href="https://www.eccouncil.org/" target="_blank">
   <img src="./CEH_9582F3793CA1.png" alt="EC-Council Trained" width="120" />
 </a>
 <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/" target="_blank">
   <img src="./CEH_Badge_SuhailM.png" alt="CEH Certified Badge" width="120" />
 </a>
-<!-- <a href="https://example.com" target="_blank">
-  <img src="https://images.credly.com/images/penetration-tester-badge.png" alt="Certified Penetration Tester Badge" width="120" />
+<a href="https://www.eccouncil.org/train-certify/certified-penetration-testing-professional-cpent/" target="_blank">
+  <img src="./1725491160129.jfif" alt="Certified Penetration Tester Badge" width="120" />
 </a> -->
 
 <hr>
